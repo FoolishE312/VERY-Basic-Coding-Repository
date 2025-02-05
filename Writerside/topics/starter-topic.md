@@ -14,5 +14,5 @@ A few icons for clarity:
 > This icon represents an important clarification, correction, etc. related to this repository. 
 {style="note"}
 
-> This icon represents a VERY important mistake that people make or a necessary clarification that could lead to a mistake.
+> This icon represents a VERY important mistake that people make or a necessary clarification that could otherwise lead to a mistake.
 {style="warning"}
