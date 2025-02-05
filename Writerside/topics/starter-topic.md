@@ -9,5 +9,10 @@ Also, not every type of HTML tag, CSS property, and JavaScript command will be r
 
 A few icons for clarity:
 
-> These 
+> This icon represents a fact or tip that may be useful for you while coding. 
+
+> This icon represents an important clarification, correction, etc. related to this repository. 
+{style="note"}
+
+> This icon represents a VERY important mistake that people make or a necessary clarification that could lead to a mistake.
 {style="warning"}
