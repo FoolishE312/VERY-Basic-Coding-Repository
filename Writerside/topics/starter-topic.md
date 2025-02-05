@@ -10,4 +10,4 @@ Also, not every type of HTML tag, CSS property, and JavaScript command will be r
 A few icons for clarity:
 
 > These 
-{style="note"}
+{style="warning"}
