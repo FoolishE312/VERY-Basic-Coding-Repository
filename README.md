@@ -9,5 +9,8 @@ You may be asking "Why create a coding repository for things that are either inc
 The reason is simple: These are often not all in one place. And, when they are, they are often not broken up enough to make it easy to read or digest. This repository exists to provide both an easy read, as well as streamline it into one, local, and easy to access file.
 
 ## What Languages Will Be Included?
-As of now, I only know the basics of three languages: HTML, CSS, and JavaScript. Naturally, these languages will be included at the level I know them at. So, if your favorite tag in HTML is not included, then I simply do not know it and/or don't find it necessary. Sorry :(
+As of now, I only know the basics of three languages: HTML, CSS, and JavaScript. Naturally, these languages will be included at the level I know them at. So, if your favorite tag in HTML is not included, then I simply do not know it or don't find it necessary. Sorry :(
 
+Additionally, I have some coding nerds as frinds (listed at the end) that may contribute some languages that they want to, such as C#. 
+
+So, to answer the question, HTML, CSS, JavaScript, and any other language, but the first three are the first priority. 
