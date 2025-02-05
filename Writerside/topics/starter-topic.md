@@ -8,3 +8,6 @@ Obviously, each language will have a different length of topics and subjects, al
 Also, not every type of HTML tag, CSS property, and JavaScript command will be represented here. These are just the basics that I know and a good baseline to get started
 
 A few icons for clarity:
+
+> These 
+{style="note"}
