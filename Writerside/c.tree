@@ -11,5 +11,19 @@
         <toc-element topic="Possible-FAQs.md"/>
         <toc-element topic="Contributions.md"/>
     </toc-element>
+    <toc-element topic="Programming.md">
+        <toc-element toc-title="JavaScript">
+
+            <toc-element topic="Intro-to-Javascript.md"/>
+            <toc-element topic="JS-Basic-Notation.md"/>
+            <toc-element topic="JS-Displaying-Text.md"/>
+        </toc-element>
+        <toc-element toc-title="C#">
+
+            <toc-element topic="Introduction-to-CSh.md"/>
+            <toc-element topic="Console-Programs.md">
+            </toc-element>
+        </toc-element>
+    </toc-element>
 
 </instance-profile>

@@ -10,7 +10,7 @@ As of now, I only know the basics of three languages: HTML, CSS, and JavaScript.
 
 Additionally, I have some coding nerds as frinds (listed at the end) that may contribute some languages that they want to, such as C#. 
 
-So, to answer the question, HTML, CSS, JavaScript, and any other language, but the first three are the first priority. 
+So, to answer the question, HTML, CSS, JavaScript, and any other language, but the first three are the first priority.
 
 ## How much experience do you, the author, have?
 
