@@ -8,7 +8,7 @@ The reason is simple: These are often not all in one place. And, when they are, 
 ## What languages will be included?
 As of now, I only know the basics of three languages: HTML, CSS, and JavaScript. Naturally, these languages will be included at the level I know them at. So, if your favorite tag in HTML is not included, then I simply do not know it or don't find it necessary. Sorry :(
 
-Additionally, I have some coding nerds as frinds (listed at the end) that may contribute some languages that they want to, such as C#.
+Additionally, I have some coding nerds as frinds (listed at the end) that may contribute some languages that they want to, such as C#. 
 
 So, to answer the question, HTML, CSS, JavaScript, and any other language, but the first three are the first priority.
 
