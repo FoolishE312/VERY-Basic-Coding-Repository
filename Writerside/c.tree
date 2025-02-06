@@ -6,5 +6,10 @@
                  name="Coding Repository"
                  start-page="starter-topic.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="Coding.md"/>
+        <toc-element topic="Questions-and-Answers.md"/>
+        <toc-element topic="Contributions.md"/>
+    </toc-element>
+
 </instance-profile>
