@@ -1,6 +1,6 @@
 # Contributions
 
-> This is a Thank You page for everyone who has helped me with my coding journey thus far. (Note: This list is not finalized and will likely be added onto.)
+> This is a "Thank You" page for everyone who has helped me with my coding journey thus far. (Note: This list is not finalized and will likely be added onto.)
 {style="note"}
 
 First of all, I'd like to thank God with providing me with the opportunity to create this repository to help new coders. While He may not have physically written code Himself, He is still a big part of my life and deserves to be recognized as such.
