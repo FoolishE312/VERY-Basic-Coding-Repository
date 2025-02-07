@@ -16,6 +16,6 @@ So, to answer the question, HTML, CSS, JavaScript, C#, and any other language, b
 
 Very little. I started coding in August of 2024 and know the barebones of HTML, CSS, and JavaScript through CodeHS and Code.org.
 
-# Why are writing styles inconsistent between different languages?
+## Why are writing styles inconsistent between different languages?
 
 Odds are, they were written by different people. For example, the JavaScript page is going to be written differently than the C# page, because @WC-III wrote the C# page while I wrote the JS one.
