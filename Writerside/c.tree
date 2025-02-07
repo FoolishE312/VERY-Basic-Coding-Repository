@@ -22,6 +22,9 @@
 
             <toc-element topic="Introduction-to-CSh.md"/>
             <toc-element topic="Console-Programs.md">
+                <toc-element topic="CSh-Printing-Text.md"/>
+                <toc-element topic="CSh-Data-Types-Variables.md"/>
+                <toc-element topic="CSh-User-Input.md"/>
             </toc-element>
         </toc-element>
     </toc-element>

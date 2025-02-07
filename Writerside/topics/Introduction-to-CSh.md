@@ -36,3 +36,5 @@ It's what I'm the most familiar in, and it's just raw C#, no XAML needed.
 
 </tab>
 </tabs>
+
+The last little bit, nearly everything will require a semicolon at the end of it, excluding loops and braces.
