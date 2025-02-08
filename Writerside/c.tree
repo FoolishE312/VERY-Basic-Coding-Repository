@@ -10,6 +10,7 @@
         <toc-element topic="Before-You-Start-Coding.md"/>
         <toc-element topic="Possible-FAQs.md"/>
         <toc-element topic="Contributions.md"/>
+				<toc-element topic="Resources.md"/>
     </toc-element>
     <toc-element topic="Programming.md">
         <toc-element toc-title="JavaScript">
