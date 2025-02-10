@@ -10,3 +10,12 @@ Second, I'd like to thank CodeHS and Code.org with providing the materials that 
 Third, I have to thank my good friend @WC-III. He included all of the base code necessary for me to get started writing this repository, and has been very helpful with finding my mistakes in the repository's code.
 
 **Thank you all so very much for your help!**
+
+<!-- i don't know if i'll include this part -->
+## Maintainer List
+
+[FoolishE312](https://github.com/FoolishE312)
+: HTML, CSS, JavaScript
+
+[WC-III](https://github.com/WC-III)
+: C#, Markup, Writerside-specific CSS (when applicable)

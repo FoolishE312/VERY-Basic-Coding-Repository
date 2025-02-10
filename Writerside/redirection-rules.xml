@@ -10,4 +10,8 @@
         <description>Created after removal of "WPF Programs" from Coding Repository</description>
         <accepts>WPF-Programs.html</accepts>
     </rule>
+    <rule id="100f0319">
+        <description>Created after removal of "The Rules to Markdown (Compressed)" from Coding Repository</description>
+        <accepts>The-Rules-to-Markdown-Compressed.html</accepts>
+    </rule>
 </rules>
