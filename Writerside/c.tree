@@ -14,19 +14,22 @@
     </toc-element>
     <toc-element topic="Programming.md">
         <toc-element toc-title="JavaScript">
-
             <toc-element topic="Intro-to-Javascript.md"/>
             <toc-element topic="JS-Basic-Notation.md"/>
             <toc-element topic="JS-Displaying-Text.md"/>
         </toc-element>
         <toc-element toc-title="C#">
-
             <toc-element topic="Introduction-to-CSh.md"/>
             <toc-element topic="Console-Programs.md">
                 <toc-element topic="CSh-Printing-Text.md"/>
                 <toc-element topic="CSh-Data-Types-Variables.md"/>
                 <toc-element topic="CSh-User-Input.md"/>
             </toc-element>
+        </toc-element>
+        <toc-element toc-title="Markup">
+
+            <toc-element topic="Introduction-to-Markup.md"/>
+            <toc-element topic="MD-Basics-of-Markdown.md"/>
         </toc-element>
     </toc-element>
 
